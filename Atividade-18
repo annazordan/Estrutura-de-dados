@@ -1,0 +1,112 @@
+Atividade 1 — Listas
+Crie um programa que:
+
+crie uma lista com 10 números inteiros;
+solicite os valores ao usuário;
+exiba todos os números;
+calcule a soma;
+calcule a média.
+Desafio
+Além disso, encontre:
+
+o maior valor;
+o menor valor;
+a quantidade de números pares.
+Atividade 2 — Matrizes
+Crie uma matriz 3 × 3.
+
+Solicite os valores ao usuário e:
+
+exiba a matriz;
+calcule a soma de todos os elementos;
+calcule a soma da diagonal principal;
+encontre o maior elemento.
+Exemplo:
+
+1 2 3
+4 5 6
+7 8 9
+A diagonal principal é:
+
+1
+   5
+      9
+Soma:
+
+1 + 5 + 9 = 15
+Atividade 3 — Dicionário
+Crie um dicionário para representar um livro com:
+
+titulo
+autor
+ano
+preco
+Depois:
+
+leia os dados;
+armazene-os no dicionário;
+exiba os dados;
+altere o preço;
+adicione uma informação chamada categoria.
+Atividade 4 — Dataclass
+Crie uma dataclass chamada Aluno com:
+
+nome
+matricula
+nota1
+nota2
+Crie um método chamado media() que calcule a média das duas notas.
+
+Exemplo:
+
+aluno = Aluno(
+    "Maria",
+    12345,
+    8.0,
+    9.0
+)
+
+print(aluno.media())
+Atividade 5 — Lista de objetos
+Utilizando a dataclass Aluno, cadastre cinco alunos.
+
+Depois:
+
+calcule a média de cada aluno;
+exiba os alunos aprovados;
+identifique o aluno com maior média.
+Considere aprovação:
+
+média >= 7.0
+Desafio integrador — Sistema de estoque
+Desenvolva um pequeno sistema de estoque.
+
+Crie uma dataclass:
+
+@dataclass
+class Produto:
+    codigo: int
+    nome: str
+    preco: float
+    quantidade: int
+O programa deverá permitir:
+
+cadastrar produtos;
+listar produtos;
+calcular o valor total do estoque;
+localizar um produto pelo código;
+identificar o produto com maior preço.
+Desafio adicional
+Implemente um menu:
+
+===== SISTEMA DE ESTOQUE =====
+
+1 - Cadastrar produto
+2 - Listar produtos
+3 - Buscar produto
+4 - Valor total do estoque
+5 - Produto mais caro
+0 - Sair
+
+Escolha:
+Esse exercício prepara o estudante para conteúdos posteriores, como funções, modularização e estruturas de dados mais complexas.
