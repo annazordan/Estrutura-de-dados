@@ -1,4 +1,5 @@
 # Estrutura-de-dados
+Repositorio feito para colocar as atividades e conteudos sobre estrutura de dados 1 e 2.
 # Atividades
 ##estrutura de dados 1##
 
