@@ -8,10 +8,11 @@
 
 #### * Atividade de ordenação. 
 O do código é o selection.  É um algoritmo de ordenação que, dado uma estrutura (array, lista) constrói uma matriz final com um elemento de cada vez, uma inserção por vez. https://github.com/annazordan/Estrutura-de-dados/blob/main/atividade%202.txt
-#### * Atividade de lista. 
-https://github.com/annazordan/Estrutura-de-dados/blob/main/atividades-estrutura-de-dados-18/lista.py
+#### * Atividade de lista.
+https://github.com/annazordan/Estrutura-de-dados/blob/main/estrutura_de_dados1/atividades-estrutura-de-dados-18/lista.py
 #### * Atividade de matriz. 
-https://github.com/annazordan/Estrutura-de-dados/blob/main/atividades-estrutura-de-dados-18/matriz.py
+https://github.com/annazordan/Estrutura-de-dados/blob/main/estrutura_de_dados1/atividades-estrutura-de-dados-18/matriz.py
 #### * Atividade de dicionario. 
-https://github.com/annazordan/Estrutura-de-dados/blob/main/atividades-estrutura-de-dados-18/dicionario.py
+https://github.com/annazordan/Estrutura-de-dados/blob/main/estrutura_de_dados1/atividades-estrutura-de-dados-18/dicionario.py
+
 
