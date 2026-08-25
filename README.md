@@ -1,5 +1,7 @@
-# Estrutura-de-dados
+# Estrutura de dados
 Repositorio feito para colocar as atividades e conteudos sobre estrutura de dados 1 e 2.
+## Estrutura de dados 2
+
 
 ## Estrutura de dados 1
 Revisão sobre pilhas, listas, matriz, ordenação
