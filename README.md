@@ -6,14 +6,14 @@
 ## Estrutura de dados 1
  Revisão sobre pilhas, listas, matriz, ordenação 
 
-#### * Atividade de ordenação. 
+#### * Atividade de ordenação. (10/08) 
 O do código é o selection.  É um algoritmo de ordenação que, dado uma estrutura (array, lista) constrói uma matriz final com um elemento de cada vez, uma inserção por vez. [https://github.com/annazordan/Estrutura-de-dados/blob/main/atividade%202.txt](https://github.com/annazordan/Estrutura-de-dados/blob/main/Atividade-de-ordena%C3%A7%C3%A3o-selection.txt)
-#### * Atividade de lista.
+#### * Atividade de lista. (17/08)
 https://github.com/annazordan/Estrutura-de-dados/blob/main/estrutura_de_dados1/atividades-estrutura-de-dados-18/lista.py
-#### * Atividade de matriz. 
+#### * Atividade de matriz. (17/08)
 https://github.com/annazordan/Estrutura-de-dados/blob/main/estrutura_de_dados1/atividades-estrutura-de-dados-18/matriz.py
-#### * Atividade de dicionario. 
+#### * Atividade de dicionario. (17/08)
 https://github.com/annazordan/Estrutura-de-dados/blob/main/estrutura_de_dados1/atividades-estrutura-de-dados-18/dicionario.py
-#### * Atividade de Estruturas dinâmicas + desafio 
+#### * Atividade de Estruturas dinâmicas + desafio (24/08)
 https://github.com/annazordan/Estrutura-de-dados/blob/main/estrutura_de_dados1/ATIVIDADE-RESPONDIDA-Aula03_Estrutura_de_dados.ipynb
 
