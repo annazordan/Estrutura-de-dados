@@ -17,5 +17,5 @@ https://github.com/annazordan/Estrutura-de-dados/blob/main/estrutura_de_dados1/a
 #### * Atividade de Estruturas dinâmicas + desafio (24/08)
 https://github.com/annazordan/Estrutura-de-dados/blob/main/estrutura_de_dados1/ATIVIDADE-RESPONDIDA-Aula03_Estrutura_de_dados.ipynb
 #### * Atividade de Fundamento LIFO e FIFO(31/08)
-https://github.com/annazordan/Estrutura-de-dados/blob/main/Aula04_Desafios.ipynb
+https://github.com/annazordan/Estrutura-de-dados/blob/main/estrutura_de_dados1/Aula04_Desafios.ipynb
 
