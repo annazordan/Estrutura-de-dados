@@ -1,5 +1,10 @@
 # Respositorio da atividade SERIOUS GAME #
 
+## Integrantes do grupo 
+Isabela Linhares 
+
+Mariana Lima
+
 ## Link do jogo  (TREE DELIVERY) 
 https://pstultgens.itch.io/tree-delivery
 ## Link do PDF (script)
