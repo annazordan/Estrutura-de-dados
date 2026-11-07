@@ -114,13 +114,9 @@ No Brasil, o tratamento de dados pessoais deve observar a **Lei Geral de Proteç
 | Métrica | O que descreve |
 |---|---|
 | **Grau** | Quantidade de conexões diretas de cada pessoa. |
-| **Centralidade de grau** | Grau comparado ao máximo possível de conexões diretas. |
-| **Centralidade de intermediação** | Frequência com que um nó aparece nos caminhos mínimos entre outros nós; ajuda a identificar pontes na rede. |
 | **Centralidade de proximidade** | Quão perto um nó está dos demais considerando as distâncias na rede. |
 | **Coeficiente de agrupamento** | Quanto os vizinhos de uma pessoa também estão conectados entre si. |
-| **Distância mínima** | Menor número de ligações necessárias para ir de uma pessoa a outra. |
 | **Diâmetro** | Maior distância mínima entre pares de nós, em um grafo conectado. |
-| **Componentes conexas** | Quantidade de grupos em que todos podem alcançar uns aos outros por algum caminho. |
 | **Densidade** | Proporção de conexões existentes em relação às possíveis. |
 
 Essas medidas ajudam a entender não apenas **quantas conexões existem**, mas também a **estrutura da rede**, os caminhos de comunicação e a formação de grupos. Não é possível concluir influência social real apenas a partir do desenho das conexões.
