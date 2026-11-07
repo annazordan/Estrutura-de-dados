@@ -129,4 +129,4 @@ Essas medidas ajudam a entender não apenas **quantas conexões existem**, mas t
 
 A rede possui **12 participantes** e **17 conexões**. O participante **annanadroz** apresenta o maior número de ligações diretas (**4**). A densidade de **25,76%** indica que cerca de um quarto das conexões possíveis está presente.
 
-> Esta análise considera apenas as ligações diretas visíveis no grafo fornecido.
+
