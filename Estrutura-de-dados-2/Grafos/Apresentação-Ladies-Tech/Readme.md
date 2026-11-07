@@ -116,7 +116,7 @@ No Brasil, o tratamento de dados pessoais deve observar a **Lei Geral de Proteç
 | **Grau** | Quantidade de conexões diretas de cada pessoa. |
 | **Centralidade de proximidade** | Quão perto um nó está dos demais considerando as distâncias na rede. |
 | **Coeficiente de agrupamento** | Quanto os vizinhos de uma pessoa também estão conectados entre si. |
-| **Centralidade de intermediação ** | 	Frequência com que um nó aparece nos caminhos mínimos entre outros nós; ajuda a identificar pontes na rede. |
+| **Centralidade de intermediação** | 	Frequência com que um nó aparece nos caminhos mínimos entre outros nós; ajuda a identificar pontes na rede. |
 | **Diâmetro** | Maior distância mínima entre pares de nós, em um grafo conectado. |
 | **Densidade** | Proporção de conexões existentes em relação às possíveis. |
 
