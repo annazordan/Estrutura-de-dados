@@ -2,6 +2,7 @@
 
 **Alunas:** Anna Clara, Isabela e Mariana  
 **Disciplina:** Estrutura de Dados 
+
 **Tema:** Análise de redes sociais utilizando grafos
 
 ---
