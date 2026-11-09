@@ -359,6 +359,8 @@ Essa estratégia é conhecida como recomendação baseada em vizinhos comuns.
 ## 11. Entrega do projeto
 
 O projeto apresenta a representação do grafo, a identificação dos graus, os cálculos de arestas e densidade, a implementação em Python e as análises das conexões.
+<img width="465" height="337" alt="WhatsApp Image 2026-11-09 at 09 36 11" src="https://github.com/user-attachments/assets/35f9bd8f-1051-4040-a4ee-669cfdf62397" />
+
 
 ### Resumo dos resultados
 
