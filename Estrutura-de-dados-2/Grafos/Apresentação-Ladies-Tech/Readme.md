@@ -3,7 +3,7 @@
 # Análise de Rede de Conexões — Grafo
 
 ## Descrição
-
+Alunas: Anna Clara, Isabela, Mariana
 Este projeto apresenta a análise de uma rede de conexões entre **12 pessoas**, representada por um **grafo não direcionado**.
 
 Cada pessoa corresponde a um **vértice (nó)**, e cada linha entre duas pessoas corresponde a uma **aresta (ligação)**. Como as conexões não têm setas, considera-se que são bidirecionais: se A está conectado a B, B também está conectado a A.
