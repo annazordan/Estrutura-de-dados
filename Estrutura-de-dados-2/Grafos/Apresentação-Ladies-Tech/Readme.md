@@ -1,4 +1,4 @@
-[README_grafo_atualizado.md](https://github.com/user-attachments/files/34527046/README_grafo_atualizado.md)
+
 
 # Análise de Rede de Conexões — Grafo
 
