@@ -1,7 +1,7 @@
 # Projeto Ladies Tech — Análise de Rede de Conexões com Grafos
 
 **Alunas:** Anna Clara, Isabela e Mariana  
-**Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados  
+**Disciplina:** Estrutura de Dados 
 **Tema:** Análise de redes sociais utilizando grafos
 
 ---
@@ -433,4 +433,4 @@ Entretanto, a utilização dessas informações deve respeitar a privacidade, a 
 
 **Alunas:** Anna Clara, Isabela e Mariana
 
-**Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
+Estrutura de Dados 
