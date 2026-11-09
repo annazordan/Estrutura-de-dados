@@ -1,5 +1,5 @@
 # Caderno do Estudante
-# Projeto ConectaUDF: redes sociais com grafos
+# Projeto Ladies Tech: redes sociais com grafos
 **Disciplina:** Algoritmos / Matemática Discreta / Ciência de Dados
 
 ## 1. O desafio
