@@ -198,7 +198,6 @@ O programa permite calcular automaticamente o grau de cada usuário, a soma dos 
 # Projeto Ladies Tech - Analise de Rede de Conexoes
 # Alunas: Anna Clara, Isabela e Mariana
 
-# Lista de adjacencia baseada no grafo da imagem
 rede = {
     "lauraz": ["fernandagil", "thalyana"],
 
